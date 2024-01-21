@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://cdn.dribbble.com/users/3298614/screenshots/6356478/gamer_-_dribbble_4x.png" border-radius = "20px" />
+  <img height="150" src="https://cdn.dribbble.com/users/3298614/screenshots/6356478/gamer_-_dribbble_4x.png" border-radius = "20" />
 </div>
 
 ###
