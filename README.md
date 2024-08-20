@@ -19,7 +19,8 @@
 
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
-<h2><i>Let's Connect</i></h2>
+<h2><i>Let's Connect</i>![ConnectingLoadingGIF](https://github.com/user-attachments/assets/185e92a7-0347-460d-8009-8b64f9a5434b)
+</h2>
 
 
 <p align="left">
