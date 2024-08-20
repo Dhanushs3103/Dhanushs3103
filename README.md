@@ -93,6 +93,12 @@
 <img height="10" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
 <!-- border line -->
 
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+<!-- border line -->
+<img height="10" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
+<!-- border line -->
+
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
 
 
