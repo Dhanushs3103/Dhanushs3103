@@ -1,10 +1,6 @@
 <h1 align="center"> 👋Hello, I'm Dhanush S</h1>
 
-###
 <img src="https://maruf001-mt.github.io/Premium-Delivery/web.gif" />
-
-###
-
 ###
 
 <!-- border line -->
