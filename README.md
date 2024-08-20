@@ -14,7 +14,7 @@
 ###
 
 <h2 align="left">🌟<i> About me</i> -</h3>
-<h5 align="left">I'm a Full-Stack Web Developer with a strong focus on both frontend development and Backend development. 🚀 I excel at crafting efficient, user-friendly, and scalable web applications. 💡 With over 1200+ hours of coding experience, I quickly adapt to new technologies. I'm passionate about continuous learning, problem-solving, and delivering visually appealing user interfaces.</h5>
+<h4 align="left">I'm a Full-Stack Web Developer with a strong focus on both frontend development and Backend development. 🚀 I excel at crafting efficient, user-friendly, and scalable web applications. 💡 With over 1200+ hours of coding experience, I quickly adapt to new technologies. I'm passionate about continuous learning, problem-solving, and delivering visually appealing user interfaces.</h4>
 
 <!-- border line -->
 <img height="10" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
