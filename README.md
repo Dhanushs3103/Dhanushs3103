@@ -86,10 +86,11 @@
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=Dhanushs3103&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D"/>
   <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dhanushs3103&layout=compact&langs_count=8&theme=algolia"/>
   <p align="center">
-  <img width="100%" height="300px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" /></p>
+  <img width="100%" height="300px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dhanushs3103&show_icons=true&theme=algolia&include_all_commits=true /></p>
 </a>
 </p>
-
+      
+<!-- &count_private=true -->
 <!-- border line -->
 <img height="10" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
 <!-- border line -->
