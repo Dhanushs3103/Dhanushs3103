@@ -10,7 +10,7 @@
 ###
 
 <h2 align="left">🌟<i> About me</i> -</h3>
-<h4 align="left">I'm a Full-Stack Web Developer with a strong focus on both frontend development and Backend development. 🚀 I excel at crafting efficient, user-friendly, and scalable web applications. 💡 With over 1200+ hours of coding experience, I quickly adapt to new technologies. I'm passionate about continuous learning, problem-solving, and delivering visually appealing user interfaces.</h4>
+<h4 align="left">I am a MERN Stack Web Developer with a strong focus on building dynamic and efficient web applications. With over 1200+ hours of coding experience, I excel at creating user-friendly interfaces. My passion for continuous learning keeps me updated with the latest technologies, ensuring top-notch performance in every project. I thrive on solving problems and delivering visually appealing, high-quality solutions that meet users' needs.</h4>
 
 <!-- border line -->
 <img height="10" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
