@@ -87,7 +87,6 @@
     <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dhanushs3103&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Dhanushs3103&theme=github-dark" alt="GitHub Streak" /></a>
 
       
 <!--  -->
