@@ -88,7 +88,7 @@
   </a>
 </p>
 <p align="center">
-  <img width="95%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dhanushs3103&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+ [![GitHub Streak](https://streak-stats.demolab.com?user=Dhanushs3103&theme=github-dark)](https://git.io/streak-stats)
 </p>
 
       
