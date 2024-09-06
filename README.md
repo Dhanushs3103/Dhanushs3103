@@ -82,14 +82,15 @@
 <h2 align="left" margin-top="20px"><i>GitHub's Analytics <img align="center" height="40" width="55" src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/stats.gif" /></i></h2>
 
 <p align="left">
-<a href="https://github.com/Dhanushs3103">
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=Dhanushs3103&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D"/>
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dhanushs3103&layout=compact&langs_count=8&theme=algolia"/>
-  <p align="center">
-   <img width="95%"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dhanushs3103&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  </p>
-</a>
+  <a href="https://github.com/Dhanushs3103">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=Dhanushs3103&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D"/>
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dhanushs3103&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
+<p align="center">
+  <img width="95%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dhanushs3103&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+</p>
+
       
 <!--  -->
 <!-- border line -->
